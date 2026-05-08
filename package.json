@@ -1,5 +1,6 @@
 {
-  "name": "tmp_vite",
+  "name": "taravelinormatory",
+  "description": "Travel Planning & Experience Engine: Plan trips dynamically with preferences, constraints, and real-time updates.",
   "private": true,
   "version": "0.0.0",
   "type": "module",
